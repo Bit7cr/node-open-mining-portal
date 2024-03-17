@@ -40,8 +40,8 @@
             "hashrateWindow": 300
         },
         "adminCenter": {
-            "enabled": false,
-            "password": "password"
+            "enabled": true,
+            "password": "bit7-admin-default-pw"
         }
     },
 
